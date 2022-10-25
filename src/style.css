@@ -5,7 +5,18 @@
   height: 300px;
 }
 
-.card {
-  height: 200px;
-  margin: ;
+.numerocentro {
+  font-size: 180%;
 }
+
+.card {
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  height: 200px;
+  width: 140px;
+}
+
+/* height: 200px;
+border: white;
+width: 20%; */
